@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.red-title{
+  color: brown;
+  background-color: hotpink;
+}
+
+.normal-title{
+  color: lightcoral;
+  background-color: brown;
+}
